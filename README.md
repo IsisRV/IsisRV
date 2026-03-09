@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+# Olá, eu sou a Isis!
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python, HTML e CSS
+- Preparando-se para o mercado de tecnologia
+- Contato: isisvieira17062008@gmail.com
 <!--
 **IsisRV/IsisRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
