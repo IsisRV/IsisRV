@@ -1,4 +1,3 @@
-## Hi there 👋
 # Olá, eu sou a Isis!
 - Estudante de Desenvolvimento de Sistemas
 - Focado em Python, HTML e CSS
